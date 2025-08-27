@@ -96,8 +96,8 @@ export const SkillsInfo = [
       school: "Sri Chaitanya Jr College",
       date: "June 2019 - June 2021",
       grade: "86.4%",
-      desc: "I completed my Class 12 education from Sri Chaitanya Jr College, Vijayawada, under the STATE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
-      degree: "CBSE(XII) - with PCM ",
+      desc: "I completed my Class 12 education from Sri Chaitanya Jr College, Vijayawada, under the APBIE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
+      degree: "STATE(XII) - with PCM ",
     },
     {
       id: 2,
