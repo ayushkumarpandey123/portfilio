@@ -38,7 +38,6 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/harshal.pandey.315/" },
-            { icon: <FaTwitter />, link: "https://x.com/ayushkumar77737" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/ayush-kumar-pandey-03b443250/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/_ayush_kumar_pandey.95/" },
             { icon: <FaYoutube />, link: "https://www.youtube.com/@ayushpandey6375" },
